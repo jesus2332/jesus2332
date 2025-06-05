@@ -19,7 +19,7 @@
 <!--Intro start-->
 - 🔭 I'm currently working on React, Next.js, Spring Boot, Django, and PostgreSQL
 
-- 🌱 I’m currently learning **advanced cloud deployment strategies and microservices architecture**
+- 🌱 I’m currently learning **cloud deployment strategies and microservices architecture**
 
 - 💻 I specialize in **Full-Stack Development** with experience in modern web technologies
 
